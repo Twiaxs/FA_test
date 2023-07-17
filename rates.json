@@ -1,0 +1,19 @@
+{
+    "2023-07-01": [
+      {
+        "cargo_type": "glass",
+        "rate": 0.04
+      },
+      {
+        "cargo_type": "metal",
+        "rate": 0.03
+      }
+    ],
+    "2023-07-02": [
+      {
+        "cargo_type": "plastic",
+        "rate": 0.02
+      }
+    ]
+  }
+  
